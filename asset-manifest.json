@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/name-and-age-list-compiler/static/css/main.d940a430.css",
+    "main.js": "/name-and-age-list-compiler/static/js/main.41dbbc6a.js",
+    "index.html": "/name-and-age-list-compiler/index.html",
+    "main.d940a430.css.map": "/name-and-age-list-compiler/static/css/main.d940a430.css.map",
+    "main.41dbbc6a.js.map": "/name-and-age-list-compiler/static/js/main.41dbbc6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d940a430.css",
+    "static/js/main.41dbbc6a.js"
+  ]
+}
